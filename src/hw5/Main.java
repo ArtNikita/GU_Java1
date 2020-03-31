@@ -13,5 +13,8 @@ public class Main {
                 person.about();
             }
         }
+
+        Population p = new Population();
+        p.printPopulationTree();
     }
 }
